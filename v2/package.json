@@ -1,0 +1,13 @@
+{
+  "name": "rest-api-players-v2",
+  "version": "2.0.0",
+  "description": "Refactored REST API with Express, routers and controllers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
